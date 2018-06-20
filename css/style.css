@@ -18,10 +18,20 @@
 }
 .box1 {
     height: 200px;
-    width: 250px;
+    width: 300px;
+    background: #C5B358;
+}
+.box1_1 {
+    height: 200px;
+    width: 800px;
     background: #C5B358;
 }
 .box2 {
+    height: 200px;
+    width: 250px;
+    background: #00CED1;
+}
+.box2_1 {
     height: 200px;
     width: 250px;
     background: #00CED1;
