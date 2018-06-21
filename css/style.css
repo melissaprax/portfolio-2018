@@ -49,19 +49,15 @@
 
 .box4 {
     height: 200px;
-    width: 225px;
+    width: 320px;
     background: #C5B358;
 }
-.box5 {
+.box4_1 {
     height: 200px;
-    width: 215px;
-    background: #00CED1;
-}
-.box6 {
-    height: 200px;
-    width: 270px;
+    width: 900px;
     background: #C5B358;
 }
+
 
 .image {
     height: 200px;
