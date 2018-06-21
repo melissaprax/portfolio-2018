@@ -28,7 +28,7 @@
 }
 .box2 {
     height: 200px;
-    width: 250px;
+    width: 900px;
     background: #00CED1;
 }
 .box2_1 {
@@ -39,6 +39,11 @@
 .box3 {
     height: 200px;
     width: 250px;
+    background: #C5B358;
+}
+.box3_1 {
+    height: 200px;
+    width: 800px;
     background: #C5B358;
 }
 
